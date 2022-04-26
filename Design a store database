@@ -1,0 +1,8 @@
+/** pet food:
+cat food (4) 4.00
+dog food (5) 5.00
+bird seed (10) 3.00
+create table pet_food (id integer primary key,name text,amount integer,amount integer);
+insert into pet_food values (1,"cat_food",4,4.00);
+insert into pet_food values (2,"dog_food",5,5.00);
+insert into pet_food values (3,"bird seed",10,3.00);
